@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](LICENSE)
 <br>
 
-**🚧 Release Notice:** The datasets and models are currently under internal review. <br>
+**🚧 Release Notice:** The datasets and models are currently undergoing internal approval. <br>
 We expect to open-source them by **March 4, 2026**.
 </div>
 
