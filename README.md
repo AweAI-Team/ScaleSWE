@@ -21,6 +21,7 @@ We expect to open-source them by **March 4, 2026**.
 - Source from 6M+ pull requests and 23000+ repositories.
 - Cover 5200 Repositories.
 - 100k high-quality instances.
+- 71k trajectories from DeepSeek v3.2 with 3.5B token.
 - Strong performance: 64% in SWE-bench-Verified trained from Qwen3-30A3B-Instruct.
 
 ## 🤖 Results
