@@ -24,7 +24,7 @@
 - Strong performance: 64% in SWE-bench-Verified trained from Qwen3-30A3B-Instruct.
 
 ## 📣 News
-- **2026-02-26** 🚀 We released a portion of our data on [Hugging Face](https://huggingface.co/collections/AweAI-Team/scale-swe). This release includes **20,000 SWE task instances**—currently the largest **Real Executable** open-source SWE dataset available—alongside **71k distillation samples** from DeepSeek v3.2. **Much more data** will be released in the future.
+- **2026-02-26** 🚀 We released a portion of our data on [Hugging Face](https://huggingface.co/collections/AweAI-Team/scale-swe). This release includes **20,000 SWE task instances**—currently the largest **Real Executable** open-source SWE dataset available—alongside **71k distillation trajectories(3.5B)** from DeepSeek v3.2. **Much more data** will be released in the future.
 - **2026-02-10** 📝 Our paper [**"Immersion in the GitHub Universe: Scaling Coding Agents to Mastery"**](https://arxiv.org/abs/2602.09892) is now available on arXiv.
 
 ## 📊 Data Format
