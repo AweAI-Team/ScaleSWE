@@ -5,6 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2602.09892-b31b1b.svg)](https://arxiv.org/abs/2602.09892)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue)](https://huggingface.co/collections/AweAI-Team/scale-swe)
 [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/Awe-AI/Scale-SWE)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_Project-Website-blue.svg)](https://aweai-team.github.io/projects/scaleswe/)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](LICENSE)
 <br>
 
