@@ -88,3 +88,7 @@ If you find this project useful for your research, please consider citing our pa
 ## 📄 License
 
 This project is licensed under the CC BY 4.0 License - see the [LICENSE](LICENSE) file for details.
+
+## 🎗️ Supporters
+
+This project is supported by [RUC AIBox](https://github.com/RUCAIBox).
