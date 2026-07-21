@@ -91,4 +91,4 @@ This project is licensed under the CC BY 4.0 License - see the [LICENSE](LICENSE
 
 ## 🎗️ Supporters
 
-This project is mainly developed and maintained by students from [RUC AIBox](https://github.com/RUCAIBox).
+This project is mainly developed and maintained by students from [RUC AI Box](https://github.com/RUCAIBox).
